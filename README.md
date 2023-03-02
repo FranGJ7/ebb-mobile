@@ -13,7 +13,7 @@ Pokémon</h1>
  <p>Nosso App é uma maneira divertida de explorar o mundo com base nos Pokemons e nas condições climáticas, e é perfeito para aqueles que desejam aprender mais sobre essas criaturas fascinantes.</p>
 
  <p>
- <strong>Temos a versão Web do aplicativo: </strong> [Clique aqui](https://ebb-web-teste.netlify.app/)
+ <strong>Temos a versão Web do aplicativo: </strong> https://ebb-web-teste.netlify.app/ <link href="https://ebb-web-teste.netlify.app/">Clique aqui</link>
  </p>
 
 
@@ -43,7 +43,7 @@ Tecnologias do projeto</h2>
      Instruções Expo Go
  </h2>
  
- <p>1 - Instale o Expo Go em seu dispositivo Android que se encontra na PlayStore (Não é nescessário login no app)</p>
+ <p>1 - Instale o Expo Go em seu dispositivo Android que se encontra na PlayStore (Não é necessário login no app)</p>
  
  <p>2 - Abra o Expo em seu dispositivo e leia o Qr code ou link do projeto que vou disponibilizar abaixo:</p>
  
