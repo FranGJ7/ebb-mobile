@@ -142,7 +142,7 @@ export default function App() {
             )
         }
       </View>
-
+    <Text>HELLO</Text>
 
       <View style={styles.formBox}>
         <TextInput
