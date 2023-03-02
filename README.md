@@ -13,7 +13,7 @@ Pokémon</h1>
  <p>Nosso App é uma maneira divertida de explorar o mundo com base nos Pokemons e nas condições climáticas, e é perfeito para aqueles que desejam aprender mais sobre essas criaturas fascinantes.</p>
 
  <p>
- <strong>Temos a versão Web do aplicativo: </strong> https://ebb-web-teste.netlify.app/ <link href="https://ebb-web-teste.netlify.app/">Clique aqui</link>
+ <strong>Temos a versão Web do aplicativo: </strong> https://ebb-web-teste.netlify.app/
  </p>
 
 
